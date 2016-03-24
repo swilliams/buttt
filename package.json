@@ -1,0 +1,29 @@
+{
+  "name": "buttt",
+  "version": "0.0.1",
+  "description": "Strings 'butts' together. Nobel prize here I come.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/swilliams/buttt.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "js",
+    "awesome",
+    "butt",
+    "butts",
+    "bestnpmever"
+  ],
+  "author": "Scott Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swilliams/buttt/issues"
+  },
+  "homepage": "https://github.com/swilliams/buttt#readme"
+}
