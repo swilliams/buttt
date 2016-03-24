@@ -1,5 +1,7 @@
 # Buttt
 
+![Travis](https://api.travis-ci.org/swilliams/buttt.svg?branch=master)
+
 Best npm module ever. Gives you a string that is 'butts'.
 
 ## Getting started
